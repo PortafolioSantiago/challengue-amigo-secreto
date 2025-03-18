@@ -1,4 +1,4 @@
-<h1>Amigo Secreto - Aplicación Web</h1>h1>
+<h1>Amigo Secreto - Aplicación Web</h1>
 
 Descripción
 
@@ -50,4 +50,4 @@ Guardar la lista de nombres en el almacenamiento local del navegador.
 
 Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por [Santiago Sandoval].
